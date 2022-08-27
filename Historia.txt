@@ -1,2 +1,3 @@
 Primera prueba con Git
-Segunda prueba de commit a archivo txt.
+Segunda prueba de commit
+Aplico nuevo cambio a archivo txt.
